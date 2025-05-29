@@ -1,0 +1,136 @@
+﻿test,test_name,scale,score,percentile,raw_score,range,ci_95,domain,subdomain,narrow,pass,verbal,timed,test_type,score_type,result,absort
+pai,PAI,Somatic Complaints,55,69,,Average,,Psychiatric Disorders,Somatic Symptom Disorder,Somatic Symptom Disorder,,,,rating_scale,t_score,"Gorety's score on Somatic Complaints
+(degree of concern about physical functioning and health matters and the extent of perceived impairment arising from somatic symptoms) was Average.",pai_somatic complaints_1
+pai,PAI,Conversion,51,53,,Average,,Psychiatric Disorders,Somatic Symptom Disorder,Somatic Symptom Disorder,,,,rating_scale,t_score,"Gorety's score on Conversion
+(moderate elevations may be seen in neurological disorders with CNS impairment involving sensorimotor problems, MS, CVA/stroke, or neuropsychological associated with chronic alcoholism) was Average.",pai_conversion_2
+pai,PAI,Somatization,54,65,,Average,,Psychiatric Disorders,Somatic Symptom Disorder,Somatic Symptom Disorder,,,,rating_scale,t_score,"Gorety's score on Somatization
+(high scorers describe general lethargy and malaise, and the presentation is one of complaintiveness and dissatisfaction) was Average.",pai_somatization_3
+pai,PAI,Health Concerns,57,75,,High Average,,Psychiatric Disorders,Somatic Symptom Disorder,Somatic Symptom Disorder,,,,rating_scale,t_score,"Gorety's score on Health Concerns
+(elevations indicate a poor health may be a major component of the self-image, with the person accustomed to being in the patient role) was High Average.",pai_health concerns_4
+pai,PAI,Anxiety,66,94,,Above Average,,Psychiatric Disorders,Anxiety,Anxiety,,,,rating_scale,t_score,"Gorety's score on Anxiety
+(reflecting a generalized impairment associated with anxiety) was Above Average.",pai_anxiety_5
+pai,PAI,Cognitive (A),66,94,,Above Average,,Psychiatric Disorders,Anxiety,Anxiety,,,,rating_scale,t_score,"Gorety's score on Cognitive (A)
+(elevations indicate worry and concern about current (often uncontrollable) issues that compromise the person's ability to concentrate and attend) was Above Average.",pai_cognitive (a)_6
+pai,PAI,Affective (A),65,93,,Above Average,,Psychiatric Disorders,Anxiety,Anxiety,,,,rating_scale,t_score,"Gorety's score on Affective (A)
+(high scorers experience a great deal of tension, have difficulty with relaxing and tend to be easily fatigued as a result of high-perceived stress) was Above Average.",pai_affective (a)_7
+pai,PAI,Physiological (A),61,86,,High Average,,Psychiatric Disorders,Anxiety,Anxiety,,,,rating_scale,t_score,"Gorety's score on Physiological (A)
+(high scorers my not psychologically experience themselves as anxious, but show physiological signs that most people associate with anxiety) was High Average.",pai_physiological (a)_8
+pai,PAI,Anxiety-Related Disorders,46,34,,Average,,Psychiatric Disorders,Anxiety,Anxiety Disorder,,,,rating_scale,t_score,"Gorety's score on Anxiety-Related Disorders
+(reflecting multiple anxiety-disorder diagnoses and broad impairment associated with anxiety) was Average.",pai_anxiety-related disorders_9
+pai,PAI,Obsessive-Compulsive,52,57,,Average,,Psychiatric Disorders,Anxiety,Anxiety Disorder,,,,rating_scale,t_score,"Gorety's score on Obsessive-Compulsive
+(scores marked rigidity and significant ruminative concerns) was Average.",pai_obsessive-compulsive_10
+pai,PAI,Phobias,43,24,,Low Average,,Psychiatric Disorders,Anxiety,Anxiety Disorder,,,,rating_scale,t_score,"Gorety's score on Phobias
+(indicate impairing phobic behaviors, with avoidance of the feared object or situation) was Low Average.",pai_phobias_11
+pai,PAI,Traumatic Stress,48,42,,Average,,Psychiatric Disorders,Anxiety,Anxiety Disorder,,,,rating_scale,t_score,"Gorety's score on Traumatic Stress
+(trauma (single or multiple) is the overriding focus of the person's life) was Average.",pai_traumatic stress_12
+pai,PAI,Depression,62,88,,High Average,,Psychiatric Disorders,Depression,Depression,,,,rating_scale,t_score,"Gorety's score on Depression
+(person feels hopeless, discouraged and useless) was High Average.",pai_depression_13
+pai,PAI,Cognitive (D),67,95,,Above Average,,Psychiatric Disorders,Depression,Depression,,,,rating_scale,t_score,"Gorety's score on Cognitive (D)
+(a higher scorer is likely to report feeling hopeless and as having failed at most important life tasks) was Above Average.",pai_cognitive (d)_14
+pai,PAI,Affective (D),69,97,,Above Average,,Psychiatric Disorders,Depression,Depression,,,,rating_scale,t_score,"Gorety's score on Affective (D)
+(elevations suggest sadness, a loss of interest in normal activities and a loss if one's sense of pleasure in things that were previously enjoyed) was Above Average.",pai_affective (d)_15
+pai,PAI,Physiological (D),48,42,,Average,,Psychiatric Disorders,Depression,Depression,,,,rating_scale,t_score,"Gorety's score on Physiological (D)
+(elevations suggest a change in level of physical functioning, typically with a disturbance in sleep pattern, a decrease in energy and level of sexual interest and a loss of appetite and/or weight loss) was Average.",pai_physiological (d)_16
+pai,PAI,Mania,49,46,,Average,,Psychiatric Disorders,Mania/Hypomania,Mania/Hypomania,,,,rating_scale,t_score,"Gorety's score on Mania
+(scores are associated with disorders such as mania, hypomania, or cyclothymia) was Average.",pai_mania_17
+pai,PAI,Activity Level,60,84,,High Average,,Psychiatric Disorders,Mania/Hypomania,Mania/Hypomania,,,,rating_scale,t_score,"Gorety's score on Activity Level
+(this activity level renders the person confused and difficult to understand) was High Average.",pai_activity level_18
+pai,PAI,Grandiosity,33,4,,Below Average,,Psychiatric Disorders,Mania/Hypomania,Mania/Hypomania,,,,rating_scale,t_score,"Gorety's score on Grandiosity
+(person may have little capacity to recognize personal limitations, to the point where one is not able to think clearly about one's capabilities) was Below Average.",pai_grandiosity_19
+pai,PAI,Irritability,57,75,,High Average,,Psychiatric Disorders,Mania/Hypomania,Mania/Hypomania,,,,rating_scale,t_score,"Gorety's score on Irritability
+(person is very volatile in response to frustration and his judgment in such situations may be poor) was High Average.",pai_irritability_20
+pai,PAI,Paranoia,51,53,,Average,,Psychiatric Disorders,Schizophrenia Spectrum Disorders,Schizophrenia Spectrum Disorder,,,,rating_scale,t_score,"Gorety's score on Paranoia
+(individuals are likely to be overtly suspicious and hostile) was Average.",pai_paranoia_21
+pai,PAI,Hypervigilance,48,42,,Average,,Psychiatric Disorders,Schizophrenia Spectrum Disorders,Schizophrenia Spectrum Disorder,,,,rating_scale,t_score,"Gorety's score on Hypervigilance
+(suggest a person who is pragmatic and skeptical in relationships) was Average.",pai_hypervigilance_22
+pai,PAI,Persecution,42,21,,Low Average,,Psychiatric Disorders,Schizophrenia Spectrum Disorders,Schizophrenia Spectrum Disorder,,,,rating_scale,t_score,"Gorety's score on Persecution
+(suggest an individual who is quick to feel that they are being treated inequitably and easily believes that there is concerted effort among others to undermine their best interests) was Low Average.",pai_persecution_23
+pai,PAI,Resentment,61,86,,High Average,,Psychiatric Disorders,Schizophrenia Spectrum Disorders,Schizophrenia Spectrum Disorder,,,,rating_scale,t_score,"Gorety's score on Resentment
+(increasing tendency to attribute any misfortunes to the neglect of others and to discredit the successes of others as being the result of luck or favoritism) was High Average.",pai_resentment_24
+pai,PAI,Schizophrenia,65,93,,Above Average,,Psychiatric Disorders,Schizophrenia Spectrum Disorders,Schizophrenia Spectrum Disorder,,,,rating_scale,t_score,"Gorety's score on Schizophrenia
+(associated with an active schizophrenic episode) was Above Average.",pai_schizophrenia_25
+pai,PAI,Psychotic Experiences,50,50,,Average,,Psychiatric Disorders,Schizophrenia Spectrum Disorders,Schizophrenia Spectrum Disorder,,,,rating_scale,t_score,"Gorety's score on Psychotic Experiences
+(person may strike others as peculiar and eccentric) was Average.",pai_psychotic experiences_26
+pai,PAI,Social Detachment,51,53,,Average,,Psychiatric Disorders,Schizophrenia Spectrum Disorders,Schizophrenia Spectrum Disorder,,,,rating_scale,t_score,"Gorety's score on Social Detachment
+(reflects a person who neither desires nor enjoys the meaning to personal relationships) was Average.",pai_social detachment_27
+pai,PAI,Thought Disorder,84,99,,Exceptionally High,,Psychiatric Disorders,Schizophrenia Spectrum Disorders,Schizophrenia Spectrum Disorder,,,,rating_scale,t_score,"Gorety's score on Thought Disorder
+(suggest problems in concentration and decision-making) was Exceptionally High.",pai_thought disorder_28
+pai,PAI,Borderline Features,64,91,,Above Average,,Personality Disorders,Borderline Personality,Borderline Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Borderline Features
+(behaviors typically associated with borderline personality disorder) was Above Average.",pai_borderline features_29
+pai,PAI,Affective Instability,63,90,,High Average,,Personality Disorders,Borderline Personality,Borderline Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Affective Instability
+(a propensity to experience a particular negative affect (anxiety, depression, or anger is the typical response)) was High Average.",pai_affective instability_30
+pai,PAI,Identity Problems,65,93,,Above Average,,Personality Disorders,Borderline Personality,Borderline Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Identity Problems
+(suggest uncertainty about major life issues and difficulties in developing and maintaining a sense of purpose) was Above Average.",pai_identity problems_31
+pai,PAI,Negative Relationships,53,61,,Average,,Personality Disorders,Borderline Personality,Borderline Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Negative Relationships
+(person is likely to be bitter and resentful about the way past relationships have gone) was Average.",pai_negative relationships_32
+pai,PAI,Self-Harm,64,91,,Above Average,,Personality Disorders,Borderline Personality,Borderline Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Self-Harm
+(reflect levels of impulsivity and recklessness that become more hazardous as scores rise) was Above Average.",pai_self-harm_33
+pai,PAI,Antisocial Features,75,99,,Exceptionally High,,Personality Disorders,Antisocial Personality,Antisocial Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Antisocial Features
+(individuals are likely to be impulsive and hostile, perhaps with a history of reckless and/or antisocial acts) was Exceptionally High.",pai_antisocial features_34
+pai,PAI,Antisocial Behaviors,59,81,,High Average,,Personality Disorders,Antisocial Personality,Antisocial Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Antisocial Behaviors
+(scores suggest a history of difficulties with authority and with social convention) was High Average.",pai_antisocial behaviors_35
+pai,PAI,Egocentricity,65,93,,Above Average,,Personality Disorders,Antisocial Personality,Antisocial Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Egocentricity
+(suggest a person who tends to be self-centered and pragmatic in interaction with others) was Above Average.",pai_egocentricity_36
+pai,PAI,Stimulus-Seeking,89,99,,Exceptionally High,,Personality Disorders,Antisocial Personality,Antisocial Personality Disorder,,,,rating_scale,t_score,"Gorety's score on Stimulus-Seeking
+(patient is likely to manifest behavior that is reckless and potentially dangerous to himself and/or those around him) was Exceptionally High.",pai_stimulus-seeking_37
+pai,PAI,Aggression,35,6,,Below Average,,Psychiatric Disorders,Aggression,Aggression,,,,rating_scale,t_score,"Gorety's score on Aggression
+(scores are indicative of an individual who may be seen as impatient, irritable, and quick-tempered) was Below Average.",pai_aggression_38
+pai,PAI,Aggressive Attitude,37,9,,Low Average,,Psychiatric Disorders,Aggression,Aggression,,,,rating_scale,t_score,"Gorety's score on Aggressive Attitude
+(suggest an individual who is easily angered and frustrated; others may perceive him as hostile and readily provoked) was Low Average.",pai_aggressive attitude_39
+pai,PAI,Verbal Aggression,34,5,,Below Average,,Psychiatric Disorders,Aggression,Aggression,,,,rating_scale,t_score,"Gorety's score on Verbal Aggression
+(reflects a person who is assertive and not intimidated by confrontation and, toward the upper end of this range, he may be verbally aggressive) was Below Average.",pai_verbal aggression_40
+pai,PAI,Physical Aggression,42,21,,Low Average,,Psychiatric Disorders,Aggression,Aggression,,,,rating_scale,t_score,"Gorety's score on Physical Aggression
+(suggest that losses of temper are more common and that the person is prone to more physical displays of anger, perhaps breaking objects or engaging in physical confrontations) was Low Average.",pai_physical aggression_41
+pai,PAI,Alcohol Problems,68,96,,Above Average,,Substance Use,Alcohol Use,Alcohol Use Disorder,,,,rating_scale,t_score,"Gorety's score on Alcohol Problems
+(are indicative of an individual who may drink regularly and may have experienced some adverse consequences as a result) was Above Average.",pai_alcohol problems_42
+pai,PAI,Drug Problems,64,91,,Above Average,,Substance Use,Drug Use,Drug Use Disorder,,,,rating_scale,t_score,"Gorety's score on Drug Problems
+(scores are indicative of a person who may use drugs on a fairly regular basis and may have experienced some adverse consequences as a result) was Above Average.",pai_drug problems_43
+pai,PAI,ALC Estimated Score,66,94,,Above Average,,Substance Use,Alcohol Use,Alcohol Use Disorder,,,,rating_scale,t_score,"Gorety's score on ALC Estimated Score
+() was Above Average.",pai_alc estimated score_44
+pai,PAI,DRG Estimated Score,67,95,,Above Average,,Substance Use,Drug Use,Drug Use Disorder,,,,rating_scale,t_score,"Gorety's score on DRG Estimated Score
+() was Above Average.",pai_drg estimated score_45
+pai,PAI,Suicidal Ideation,49,46,,Average,,Psychiatric Disorders,Depression,Depression,,,,rating_scale,t_score,"Gorety's score on Suicidal Ideation
+(scores are typically of an individual who is seen in clinical settings) was Average.",pai_suicidal ideation_46
+pai,PAI,Stress,50,50,,Average,,Psychosocial Problems,Social Environment,Social Environment,,,,rating_scale,t_score,"Gorety's score on Stress
+(individuals may be experiencing a moderate degree of stress as a result of difficulties in some major life area) was Average.",pai_stress_47
+pai,PAI,Nonsupport,50,50,,Average,,Psychosocial Problems,Social Environment,Social Environment,,,,rating_scale,t_score,"Gorety's score on Nonsupport
+(social relationships are perceived as offering little support - family relationships may be either distant or combative, whereas friends are generally seen as unavailable or not helpful when needed) was Average.",pai_nonsupport_48
+pai,PAI,Treatment Rejection,35,6,,Below Average,,Psychosocial Problems,Treatment Considerations,Treatment Considerations,,,,rating_scale,t_score,"Gorety's score on Treatment Rejection
+(average scores suggest a person who acknowledges major difficulties in their functioning, and perceives an acute need for help in dealing with these problems) was Below Average.",pai_treatment rejection_49
+pai,PAI,Dominance,51,53,,Average,,Psychosocial Problems,Interpersonal,Interpersonal,,,,rating_scale,t_score,"Gorety's score on Dominance
+(average scores reflect an individual who is likely to be able to adapt to different interpersonal situations, by being able to both take and relinquish control in these relationships as needed) was Average.",pai_dominance_50
+pai,PAI,Warmth,51,53,,Average,,Psychosocial Problems,Interpersonal,Interpersonal,,,,rating_scale,t_score,"Gorety's score on Warmth
+(average scores reflect an individual who is likely to be able to adapt to different interpersonal situations, by being able to tolerate close attachment but also capable of maintaining some distance in relationships as needed) was Average.",pai_warmth_51
+pai,PAI,Inconsistency,,55,69,Within Normal Limits Score,,Symptom Validity,Response Inconsistency,Inconsistency,,,,symptom_validity,t_score,"Gorety's score on Inconsistency
+(Inconsistency) was Within Normal Limits Score.",pai_inconsistency_1
+pai,PAI,Infrequency,,51,53,Within Normal Limits Score,,Symptom Validity,Negative Impression,Infrequency,,,,symptom_validity,t_score,"Gorety's score on Infrequency
+(Infrequency) was Within Normal Limits Score.",pai_infrequency_2
+pai,PAI,Negative Impression Management,,59,81,High Average Score,,Symptom Validity,Negative Impression,Negative Impression Management,,,,symptom_validity,t_score,"Gorety's score on Negative Impression Management
+(Negative Impression Management) was High Average Score.",pai_negative impression management_3
+pai,PAI,Positive Impression Management,,45,30,Within Normal Limits Score,,Symptom Validity,Positive Impresion,Positive Impression Management,,,,symptom_validity,t_score,"Gorety's score on Positive Impression Management
+(Positive Impression Management) was Within Normal Limits Score.",pai_positive impression management_4
+pai,PAI,Malingering Index,,57,75,High Average Score,,Symptom Validity,Negative Impression,Malingering Index,,,,symptom_validity,t_score,"Gorety's score on Malingering Index
+(Malingering Index) was High Average Score.",pai_malingering index_5
+pai,PAI,Rogers Discriminant Function,,44,27,Within Normal Limits Score,,Symptom Validity,Negative Impression,Rogers Discriminant Function,,,,symptom_validity,t_score,"Gorety's score on Rogers Discriminant Function
+(Rogers Discriminant Function) was Within Normal Limits Score.",pai_rogers discriminant function_6
+pai,PAI,Negative Distortion Scale,,47,38,Within Normal Limits Score,,Symptom Validity,Negative Impression,Negative Distortion Scale,,,,symptom_validity,t_score,"Gorety's score on Negative Distortion Scale
+(Negative Distortion Scale) was Within Normal Limits Score.",pai_negative distortion scale_7
+pai,PAI,Hong Malingering Index,,54,65,Within Normal Limits Score,,Symptom Validity,Negative Impression,Hong Malingering Index,,,,symptom_validity,t_score,"Gorety's score on Hong Malingering Index
+(Hong Malingering Index) was Within Normal Limits Score.",pai_hong malingering index_8
+pai,PAI,Multiscale Feigning Index,,56,72,Within Normal Limits Score,,Symptom Validity,Negative Impression,Multiscale Feigning Index,,,,symptom_validity,t_score,"Gorety's score on Multiscale Feigning Index
+(Multiscale Feigning Index) was Within Normal Limits Score.",pai_multiscale feigning index_9
+pai,PAI,Malingered Pain-Related Disability Discriminant Function,,59,81,High Average Score,,Symptom Validity,Negative Impression,Malingered Pain-Related Disability Discriminant Function,,,,symptom_validity,t_score,"Gorety's score on Malingered Pain-Related Disability Discriminant Function
+(Malingered Pain-Related Disability Discriminant Function) was High Average Score.",pai_malingered pain-related disability discriminant function_10
+pai,PAI,Defensiveness Index,,57,75,High Average Score,,Symptom Validity,Positive Impression,Defensiveness Index,,,,symptom_validity,t_score,"Gorety's score on Defensiveness Index
+(Defensiveness Index) was High Average Score.",pai_defensiveness index_11
+pai,PAI,Cashel Discriminant Function,,50,50,Within Normal Limits Score,,Symptom Validity,Positive Impression,Cashel Discriminant Function,,,,symptom_validity,t_score,"Gorety's score on Cashel Discriminant Function
+(Cashel Discriminant Function) was Within Normal Limits Score.",pai_cashel discriminant function_12
+pai,PAI,Positive Distortion Scale,,33,4,Below Average Score,,Symptom Validity,Positive Impression,Positive Distortion Scale,,,,symptom_validity,t_score,"Gorety's score on Positive Distortion Scale
+(Positive Distortion Scale) was Below Average Score.",pai_positive distortion scale_13
+pai,PAI,Hong Defensiveness Index,,48,42,Within Normal Limits Score,,Symptom Validity,Positive Impression,Hong Defensiveness Index,,,,symptom_validity,t_score,"Gorety's score on Hong Defensiveness Index
+(Hong Defensiveness Index) was Within Normal Limits Score.",pai_hong defensiveness index_14
+pai,PAI,Back Random Responding,,44,27,Within Normal Limits Score,,Symptom Validity,Response Inconsistency,Back Random Responding,,,,symptom_validity,t_score,"Gorety's score on Back Random Responding
+(Back Random Responding) was Within Normal Limits Score.",pai_back random responding_15
+pai,PAI,Hong Randomness Index,,63,90,High Average Score,,Symptom Validity,Response Inconsistency,Hong Randomness Index,,,,symptom_validity,t_score,"Gorety's score on Hong Randomness Index
+(Hong Randomness Index) was High Average Score.",pai_hong randomness index_16
+pai,PAI,Inattention (INATTN) Index,77,99,,Exceptionally High,,ADHD,Attention Problems,Inattention,,,,rating_scale,t_score,Gorety's score on Inattention (INATTN) Index () was Exceptionally High.,pai_inattention (inattn) index_1

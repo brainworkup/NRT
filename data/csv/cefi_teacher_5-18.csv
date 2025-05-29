@@ -1,0 +1,11 @@
+﻿test,test_name,scale,raw_score,score,percentile,range,ci_95,domain,subdomain,narrow,pass,verbal,timed,test_type,score_type,result,absort
+cefi_teacher_5-18,CEFI Teacher,Attention,,89,23,Low Average,82-99,ADHD,Attention,Attention (Teacher),,,,rating_scale,standard_score,#NAME?,cefi_teacher_2
+cefi_teacher_5-18,CEFI Teacher,Emotion Regulation,,87,19,Low Average,81-95,ADHD,Emotion Regulation,Emotion Regulation (Teacher),,,,rating_scale,standard_score,#NAME?,cefi_teacher_3
+cefi_teacher_5-18,CEFI Teacher,Flexibility,,95,37,Average,89-102,ADHD,Flexibility,Flexibility (Teacher),,,,rating_scale,standard_score,#NAME?,cefi_teacher_4
+cefi_teacher_5-18,CEFI Teacher,Full Scale,,93,32,Average,90-96,ADHD,Full Scale,Full Scale (Teacher),,,,rating_scale,standard_score,- AJ's overall level of executive functioning was Average.,cefi_teacher_1
+cefi_teacher_5-18,CEFI Teacher,Inhibitory Control,,102,55,Average,95-109,ADHD,Inhibitory Control,Inhibitory Control (Teacher),,,,rating_scale,standard_score,"- Inhibitory Control (i.e., control behavior or impulses, including thinking about consequences before acting, maintaining self-control, and thinking before speaking) was Average",cefi_teacher_5
+cefi_teacher_5-18,CEFI Teacher,Initiation,,89,23,Low Average,83-96,ADHD,Initiation,Initiation (Teacher),,,,rating_scale,standard_score,#NAME?,cefi_teacher_6
+cefi_teacher_5-18,CEFI Teacher,Organization,,103,58,Average,96-109,ADHD,Organization,Organization (Teacher),,,,rating_scale,standard_score,#NAME?,cefi_teacher_7
+cefi_teacher_5-18,CEFI Teacher,Planning,,86,18,Low Average,80-94,ADHD,Planning,Planning (Teacher),,,,rating_scale,standard_score,#NAME?,cefi_teacher_8
+cefi_teacher_5-18,CEFI Teacher,Self-Monitoring,,93,32,Average,86-102,ADHD,Self-Monitoring,Self-Monitoring (Teacher),,,,rating_scale,standard_score,#NAME?,cefi_teacher_9
+cefi_teacher_5-18,CEFI Teacher,Working Memory,,93,32,Average,86-101,ADHD,Working Memory,Working Memory (Teacher),,,,rating_scale,standard_score,#NAME?,cefi_teacher_10

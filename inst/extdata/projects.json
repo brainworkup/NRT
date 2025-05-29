@@ -1,0 +1,7 @@
+{
+  "name": "[PATIENT_NAME]",
+  "rootPath": "[/Users/joey/reports/PATIENT_NAME]",
+  "paths": ["src/qmd", "src/rmd", "data/csv", "data/pdf"],
+  "tags": ["Quarto", "R", "Typst", "Brainworkup"],
+  "enabled": true
+}

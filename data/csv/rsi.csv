@@ -1,0 +1,8 @@
+scale,raw_score,score,percentile,range,ci_95,test,test_name,domain,subdomain,narrow,pass,verbal,timed,test_type,score_type,absort,description,result
+School/Work,,57,76,High Average,,rsi,Rating Scale of Impairment,Functional Impairment,School/Work,School/Work,,,,rating_scale,t_score,rsi__1,School/Work was High Average.,School/Work was High Average.
+Social,,53,62,Average,,rsi,Rating Scale of Impairment,Functional Impairment,Social,Social,,,,rating_scale,t_score,rsi__2,Social was Average.,Social was Average.
+Mobility,,42,21,Low Average,,rsi,Rating Scale of Impairment,Functional Impairment,Mobility,Mobility,,,,rating_scale,t_score,rsi__3,Mobility was Low Average.,Mobility was Low Average.
+Domestic,,42,21,Low Average,,rsi,Rating Scale of Impairment,Functional Impairment,Domestic,Domestic,,,,rating_scale,t_score,rsi__4,Domestic was Low Average.,Domestic was Low Average.
+Family,,56,73,Average,,rsi,Rating Scale of Impairment,Functional Impairment,Family,Family,,,,rating_scale,t_score,rsi__5,Family was Average.,Family was Average.
+Self-Care,,44,27,Average,,rsi,Rating Scale of Impairment,Functional Impairment,Self-Care,Self-Care,,,,rating_scale,t_score,rsi__6,Self-Care was Average.,Self-Care was Average.
+Total Score,,49,46,Average,,rsi,Rating Scale of Impairment,Functional Impairment,Total Score,Total Score,,,,rating_scale,t_score,rsi__7,Total Score was Average.,Total Score was Average.

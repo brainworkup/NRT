@@ -1,0 +1,5 @@
+scale,raw_score,score,percentile,range,ci_95,test,test_name,domain,subdomain,narrow,pass,timed,verbal,test_type,score_type,description,result
+Social Perception,39,10,50,Average,,acs_social_cognition,ACS Social Cognition,Social Cognition,Social Perception,Social Perception,,Untimed,Nonverbal,npsych_test,scaled_score,Broad emotional intelligence and social cognition,Broad emotional intelligence and social cognition was Average.
+Affect Naming,19,9,37,Average,,acs_social_cognition,ACS Social Cognition,Social Cognition,Social Perception,Social Perception,,Untimed,Verbal,npsych_test,scaled_score,Recognizing variation in affect,Recognizing variation in affect was Average.
+Prosody-Face Matching,20,11,63,Average,,acs_social_cognition,ACS Social Cognition,Social Cognition,Social Perception,Social Perception,,Untimed,Nonverbal,npsych_test,scaled_score,Recognizing sarcasm,Recognizing sarcasm was Average.
+Prosody-Pair Matching,27,8,25,Low Average,,acs_social_cognition,ACS Social Cognition,Social Cognition,Social Perception,Social Perception,,Untimed,Verbal,npsych_test,scaled_score,Recognizing sarcasm (pairs),Recognizing sarcasm (pairs) was Low Average.

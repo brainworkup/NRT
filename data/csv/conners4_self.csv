@@ -1,0 +1,16 @@
+﻿test,test_name,scale,score,ci_95,percentile,range,domain,subdomain,narrow,test_type,score_type,result,absort
+conners4_self,Conners-4 Self,ADHD Hyperactive/Impulsive Symptoms,38,33-43,12,Low Average,ADHD,Hyperactive/Impulsive,Hyperactive/Impulsive (Self),rating_scale,t_score,"- Self-reported ADHD Hyperactive/Impulsive Symptoms (i.e., behave in a manner consistent with the DSM-5 Hyperactive-Impulsive Presentation of ADHD) was Low Average.",c4_self_11
+conners4_self,Conners-4 Self,ADHD Inattentive Symptoms,45,40-50,45,Average,ADHD,Inattention,Inattention (Self),rating_scale,t_score,"- Self-reported ADHD Inattentive Symptoms (i.e., behave in a manner consistent with the DSM-5 Inattentive Presentation of ADHD) was Average.",c4_self_10
+conners4_self,Conners-4 Self,ADHD Index,10,,18,Low,ADHD,ADHD Index,ADHD Index (Self),rating_scale,t_score,"- The ADHD Index, which provides an overall risk for ADHD based on the Conners 4 assessment, was Average.",c4_self_15
+conners4_self,Conners-4 Self,Anxious Thoughts,41,36-46,18,Low Average,ADHD,Internalizing,Internalizing (Self),rating_scale,t_score,#NAME?,c4_self_6
+conners4_self,Conners-4 Self,Conduct Disorder Symptoms,44,40-48,22,Low Average,ADHD,Disruptive Behavior,Disruptive Behavior (Self),rating_scale,t_score,#NAME?,c4_self_14
+conners4_self,Conners-4 Self,Depressed Mood,47,42-52,52,Average,ADHD,Internalizing,Internalizing (Self),rating_scale,t_score,"- Self-reported Depressed Mood (i.e., feelings of sadness, hopelessness, low self-worth) was Average.",c4_self_5
+conners4_self,Conners-4 Self,Emotional Dysregulation,47,42-52,53,Average,ADHD,Externalizing,Externalizing (Self),rating_scale,t_score,#NAME?,c4_self_4
+conners4_self,Conners-4 Self,Family Life,45,38-52,34,Average,ADHD,Impairment,Impairment (Self),rating_scale,t_score,#NAME?,c4_self_9
+conners4_self,Conners-4 Self,Hyperactivity,39,34-44,13,Low Average,ADHD,Hyperactivity,Hyperactivity (Self),rating_scale,t_score,#NAME?,c4_self_2
+conners4_self,Conners-4 Self,Impulsivity,36,30-42,5,Below Average,ADHD,Impulsivity,Impulsivity (Self),rating_scale,t_score,#NAME?,c4_self_3
+conners4_self,Conners-4 Self,Inattention/Executive Dysfunction,46,43-49,50,Average,ADHD,Attention/Executive,Attention/Executive (Self),rating_scale,t_score,"- Self-reported Inattention/Executive Dysfunction (i.e., trouble concentrating, difficulty planning or completing tasks, forgetfulness, absent-mindedness, being disorganized) was Average.",c4_self_1
+conners4_self,Conners-4 Self,Oppositional Defiant Disorder Symptoms,49,44-54,59,Average,ADHD,Disruptive Behavior,Disruptive Behavior (Self),rating_scale,t_score,#NAME?,c4_self_13
+conners4_self,Conners-4 Self,Peer Interactions,45,38-52,39,Average,ADHD,Impairment,Impairment (Self),rating_scale,t_score,#NAME?,c4_self_8
+conners4_self,Conners-4 Self,Schoolwork,50,44-56,59,Average,ADHD,Impairment,Impairment (Self),rating_scale,t_score,#NAME?,c4_self_7
+conners4_self,Conners-4 Self,Total ADHD Symptoms,41,37-45,32,Average,ADHD,ADHD Combined,ADHD Combined (Self),rating_scale,t_score,"- Self-reported Total ADHD Symptoms (i.e., overall ADHD symptoms, combining inattentive and hyperactive/impulsive symptoms) was Average.",c4_self_12
