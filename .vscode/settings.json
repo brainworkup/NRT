@@ -14,5 +14,9 @@
     "statusBarItem.remoteBackground": "#b0b8f766",
     "statusBarItem.remoteForeground": "#15202b",
     "tab.activeBorder": "#dee2fc66"
+  },
+  "files.exclude": {
+    ".history": true,
+    "inst/assets/.quarto": true
   }
 }

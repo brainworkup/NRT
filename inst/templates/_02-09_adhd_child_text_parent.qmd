@@ -1,92 +1,18 @@
 <summary>
 
+- Georgia's self-reported Organizing, prioritizing, and activating to work (parent rated) was Exceptionally High.
+- Georgia's self-reported Focus (Focusing, sustaining, and shifting attention to tasks (parent rated)) was Exceptionally High.
+- Georgia's self-reported Memory (Utilizing working memory and accessing recall (parent rated)) was Above Average.
+- Georgia's self-reported Overall Executive Function (General executive functioning in daily life (parent rated)) was Above Average.
+- Georgia's self-reported Effort (Regulating alertness, sustaining effort, and adjusting processing speed (parent rated)) was Above Average.
+- Georgia's self-reported Action (Monitoring and self-regulating action (parent rated)) was High Average.
+- Parent-reported ADHD Inattentive Symptoms (i.e., Items that are consistent with the DSM-5 Inattentive Presentation of ADHD) was High Average.
 
+"- Parent-reported Inattention/Executive Dysfunction (i.e., A scale including items related to having trouble paying attention and sustaining attention, as well as difficulty with other areas of Executive functioning such as planning, organizing, and time management) was High Average."
+- Harry's parent-reported Inhibition (i.e., control behavior or impulses, including thinking about consequences before acting, maintaining self-control, and thinking before speaking (parent rated)) was High Average.
+- Parent-reported Total ADHD Symptoms (i.e., All items from the Conners 4 DSM ADHD Inattentive and Hyperactive/Impulsive Symptom scales) was High Average.
+
+- Georgia's self-reported Emotion (Managing frustration and modulating emotions (parent rated)) was High Average.
+- Parent-reported ADHD Index (i.e., Scale composed of the 12 items that best differentiate youth with ADHD from those in the general population) indicated a probability of 74% of having ADHD, which in this context is considered to be  at risk for ADHD .
 
 </summary>
-- Georgia's self-reported Organizing, prioritizing, and activating to work (parent rated) was Exceptionally High.
-- Georgia's self-reported Focus (Focusing, sustaining, and shifting attention to tasks (parent rated)) was Exceptionally High.
-- Georgia's self-reported Memory (Utilizing working memory and accessing recall (parent rated)) was Above Average.
-- Georgia's self-reported Overall Executive Function (General executive functioning in daily life (parent rated)) was Above Average.
-- Georgia's self-reported Effort (Regulating alertness, sustaining effort, and adjusting processing speed (parent rated)) was Above Average.
-- Georgia's self-reported Action (Monitoring and self-regulating action (parent rated)) was High Average.
-- Parent-reported ADHD Inattentive Symptoms (i.e., Items that are consistent with the DSM-5 Inattentive Presentation of ADHD) was High Average.
-
-"- Parent-reported Inattention/Executive Dysfunction (i.e., A scale including items related to having trouble paying attention and sustaining attention, as well as difficulty with other areas of Executive functioning such as planning, organizing, and time management) was High Average."
-- Harry's parent-reported Inhibition (i.e., control behavior or impulses, including thinking about consequences before acting, maintaining self-control, and thinking before speaking (parent rated)) was High Average.
-- Parent-reported Total ADHD Symptoms (i.e., All items from the Conners 4 DSM ADHD Inattentive and Hyperactive/Impulsive Symptom scales) was High Average.
-
-- Georgia's self-reported Emotion (Managing frustration and modulating emotions (parent rated)) was High Average.
-- Parent-reported ADHD Index (i.e., Scale composed of the 12 items that best differentiate youth with ADHD from those in the general population) indicated a probability of 74% of having ADHD, which in this context is considered to be  at risk for ADHD .
-
-"- Parent-reported Hyperactivity (i.e., A scale including items about restlessness, difficulty staying seated or sitting still, needing to move around, getting overly excited, and talking too much) was Average."
-- Harry's parent-reported Emotion Dysregulation (i.e., control and manage emotions, including staying calm when handling small problems and reacting with the right level of emotion (parent rated)) was Average.
-- Parent-reported ADHD Hyperactive/Impulsive Symptoms (i.e., Symptoms of hyperactivity and impulsivity consistent with DSM-5) was Average.
-
-- Harry's parent-reported Flexibility (i.e., adjust behavior to meet circumstances, including coming up with different ways to solve problems, changing behavior when needed, and being able to come up with new ways to reach a goal (parent rated)) was Average.
-- Harry's parent-reported Planning (i.e., develop and implement strategies to accomplish tasks, including planning ahead and making good decisions (parent rated)) was Low Average.
-- Harry's parent-reported Self-Monitoring (i.e., evaluate own behavior in order to determine when a different approach is necessary, including noticing and fixing mistakes, knowing when help is required, and understanding when a task is completed (parent rated)) was Low Average.
-"- Parent-reported Emotional Dysregulation (i.e., A scale including items about overreacting, losing temper, and having trouble calming down) was Low Average."
-- Harry's parent-reported overall level of executive functioning (parent rated) was Low Average.
-"- Parent-reported Impulsivity (i.e., A scale including items about interrupting others, blurting out answers, acting before thinking, and having trouble waiting for one's turn) was Below Average.
-- Harry's parent-reported Initiation (i.e., begin tasks or projects on own, including starting tasks easily, being motivated, and taking the initiative when needed (parent rated)) was Below Average.
-- Harry's parent-reported Organization (i.e., manage personal effects, work, or multiple tasks, including organizing tasks and thoughts well, managing time effectively, and working neatly (parent rated)) was Below Average.
-- Harry's parent-reported Attention Problems (i.e., avoid distractions, concentrate on tasks, and sustain attention (parent rated)) was Exceptionally Low.
-- Harry's parent-reported Working Memory (i.e., keep information in mind that is important for knowing what to do and how to do it, including remembering important things, instructions, and steps (parent rated)) was Exceptionally Low.
-- Georgia's self-reported Organizing, prioritizing, and activating to work (parent rated) was Exceptionally High.
-- Georgia's self-reported Focus (Focusing, sustaining, and shifting attention to tasks (parent rated)) was Exceptionally High.
-- Georgia's self-reported Memory (Utilizing working memory and accessing recall (parent rated)) was Above Average.
-- Georgia's self-reported Overall Executive Function (General executive functioning in daily life (parent rated)) was Above Average.
-- Georgia's self-reported Effort (Regulating alertness, sustaining effort, and adjusting processing speed (parent rated)) was Above Average.
-- Georgia's self-reported Action (Monitoring and self-regulating action (parent rated)) was High Average.
-- Parent-reported ADHD Inattentive Symptoms (i.e., Items that are consistent with the DSM-5 Inattentive Presentation of ADHD) was High Average.
-
-"- Parent-reported Inattention/Executive Dysfunction (i.e., A scale including items related to having trouble paying attention and sustaining attention, as well as difficulty with other areas of Executive functioning such as planning, organizing, and time management) was High Average."
-- Harry's parent-reported Inhibition (i.e., control behavior or impulses, including thinking about consequences before acting, maintaining self-control, and thinking before speaking (parent rated)) was High Average.
-- Parent-reported Total ADHD Symptoms (i.e., All items from the Conners 4 DSM ADHD Inattentive and Hyperactive/Impulsive Symptom scales) was High Average.
-
-- Georgia's self-reported Emotion (Managing frustration and modulating emotions (parent rated)) was High Average.
-- Parent-reported ADHD Index (i.e., Scale composed of the 12 items that best differentiate youth with ADHD from those in the general population) indicated a probability of 74% of having ADHD, which in this context is considered to be  at risk for ADHD .
-
-"- Parent-reported Hyperactivity (i.e., A scale including items about restlessness, difficulty staying seated or sitting still, needing to move around, getting overly excited, and talking too much) was Average."
-- Harry's parent-reported Emotion Dysregulation (i.e., control and manage emotions, including staying calm when handling small problems and reacting with the right level of emotion (parent rated)) was Average.
-- Parent-reported ADHD Hyperactive/Impulsive Symptoms (i.e., Symptoms of hyperactivity and impulsivity consistent with DSM-5) was Average.
-
-- Harry's parent-reported Flexibility (i.e., adjust behavior to meet circumstances, including coming up with different ways to solve problems, changing behavior when needed, and being able to come up with new ways to reach a goal (parent rated)) was Average.
-- Harry's parent-reported Planning (i.e., develop and implement strategies to accomplish tasks, including planning ahead and making good decisions (parent rated)) was Low Average.
-- Harry's parent-reported Self-Monitoring (i.e., evaluate own behavior in order to determine when a different approach is necessary, including noticing and fixing mistakes, knowing when help is required, and understanding when a task is completed (parent rated)) was Low Average.
-"- Parent-reported Emotional Dysregulation (i.e., A scale including items about overreacting, losing temper, and having trouble calming down) was Low Average."
-- Harry's parent-reported overall level of executive functioning (parent rated) was Low Average.
-"- Parent-reported Impulsivity (i.e., A scale including items about interrupting others, blurting out answers, acting before thinking, and having trouble waiting for one's turn) was Below Average.
-- Harry's parent-reported Initiation (i.e., begin tasks or projects on own, including starting tasks easily, being motivated, and taking the initiative when needed (parent rated)) was Below Average.
-- Harry's parent-reported Organization (i.e., manage personal effects, work, or multiple tasks, including organizing tasks and thoughts well, managing time effectively, and working neatly (parent rated)) was Below Average.
-- Harry's parent-reported Attention Problems (i.e., avoid distractions, concentrate on tasks, and sustain attention (parent rated)) was Exceptionally Low.
-- Harry's parent-reported Working Memory (i.e., keep information in mind that is important for knowing what to do and how to do it, including remembering important things, instructions, and steps (parent rated)) was Exceptionally Low.
-- Georgia's self-reported Organizing, prioritizing, and activating to work (parent rated) was Exceptionally High.
-- Georgia's self-reported Focus (Focusing, sustaining, and shifting attention to tasks (parent rated)) was Exceptionally High.
-- Georgia's self-reported Memory (Utilizing working memory and accessing recall (parent rated)) was Above Average.
-- Georgia's self-reported Overall Executive Function (General executive functioning in daily life (parent rated)) was Above Average.
-- Georgia's self-reported Effort (Regulating alertness, sustaining effort, and adjusting processing speed (parent rated)) was Above Average.
-- Georgia's self-reported Action (Monitoring and self-regulating action (parent rated)) was High Average.
-- Parent-reported ADHD Inattentive Symptoms (i.e., Items that are consistent with the DSM-5 Inattentive Presentation of ADHD) was High Average.
-
-"- Parent-reported Inattention/Executive Dysfunction (i.e., A scale including items related to having trouble paying attention and sustaining attention, as well as difficulty with other areas of Executive functioning such as planning, organizing, and time management) was High Average."
-- Harry's parent-reported Inhibition (i.e., control behavior or impulses, including thinking about consequences before acting, maintaining self-control, and thinking before speaking (parent rated)) was High Average.
-- Parent-reported Total ADHD Symptoms (i.e., All items from the Conners 4 DSM ADHD Inattentive and Hyperactive/Impulsive Symptom scales) was High Average.
-
-- Georgia's self-reported Emotion (Managing frustration and modulating emotions (parent rated)) was High Average.
-- Parent-reported ADHD Index (i.e., Scale composed of the 12 items that best differentiate youth with ADHD from those in the general population) indicated a probability of 74% of having ADHD, which in this context is considered to be  at risk for ADHD .
-
-"- Parent-reported Hyperactivity (i.e., A scale including items about restlessness, difficulty staying seated or sitting still, needing to move around, getting overly excited, and talking too much) was Average."
-- Harry's parent-reported Emotion Dysregulation (i.e., control and manage emotions, including staying calm when handling small problems and reacting with the right level of emotion (parent rated)) was Average.
-- Parent-reported ADHD Hyperactive/Impulsive Symptoms (i.e., Symptoms of hyperactivity and impulsivity consistent with DSM-5) was Average.
-
-- Harry's parent-reported Flexibility (i.e., adjust behavior to meet circumstances, including coming up with different ways to solve problems, changing behavior when needed, and being able to come up with new ways to reach a goal (parent rated)) was Average.
-- Harry's parent-reported Planning (i.e., develop and implement strategies to accomplish tasks, including planning ahead and making good decisions (parent rated)) was Low Average.
-- Harry's parent-reported Self-Monitoring (i.e., evaluate own behavior in order to determine when a different approach is necessary, including noticing and fixing mistakes, knowing when help is required, and understanding when a task is completed (parent rated)) was Low Average.
-"- Parent-reported Emotional Dysregulation (i.e., A scale including items about overreacting, losing temper, and having trouble calming down) was Low Average."
-- Harry's parent-reported overall level of executive functioning (parent rated) was Low Average.
-"- Parent-reported Impulsivity (i.e., A scale including items about interrupting others, blurting out answers, acting before thinking, and having trouble waiting for one's turn) was Below Average.
-- Harry's parent-reported Initiation (i.e., begin tasks or projects on own, including starting tasks easily, being motivated, and taking the initiative when needed (parent rated)) was Below Average.
-- Harry's parent-reported Organization (i.e., manage personal effects, work, or multiple tasks, including organizing tasks and thoughts well, managing time effectively, and working neatly (parent rated)) was Below Average.
-- Harry's parent-reported Attention Problems (i.e., avoid distractions, concentrate on tasks, and sustain attention (parent rated)) was Exceptionally Low.
-- Harry's parent-reported Working Memory (i.e., keep information in mind that is important for knowing what to do and how to do it, including remembering important things, instructions, and steps (parent rated)) was Exceptionally Low.

@@ -1,40 +1,5 @@
 <summary>
 
-Strategic planning and organization aptitude to formulate an action in advance of performance or intended performance fell within the Exceptionally High range.
-Retrieval fluency, ideational fluency, and generativity was Above Average.
-Visual-perceptual decision-making speed was Above Average.
-Total number of repetitive response errors was High Average.
-Ability to remember and recall visual information fell within the High Average.
-Ability to understand and use spatial concepts temporarily stored in working memory was High Average.
-Elias's score on Digit Span (attention span and auditory attention) was Average.
-A measure of both attentional capacity and working memory fell within the Average.
-The patient's ability to encode, maintain, and recall visual information in short-term working memory fell within the Average and ranked at the 63th percentile, indicating performance as good as or better than 63% of same-age peers from the general population.
-Processing Speed (*G*s) was Average.
-Orientation to person, place, time, and situation was intact.
-Auditory attentional capacity was Average (7 digits forward).
-Working memory for orally presented information was Average (5 digits backward).
-Self-monitoring and perseverative tendencies was Average.
-Elias's score on Attention Index (general attentional and executive functioning) was Average.
-Selective visual attention, visual discrimination, and visual-perceptual processing was Average.
-The patient's ability to encode, maintain, and recall visual information in short-term working memory fell within the Average and ranked at the 50th percentile, indicating performance as good as or better than 50% of same-age peers from the general population.
-Auditory attentional capacity, or how much information can be processed at once fell within the Average.
-A marker of reduced focus, or selective attention, distractibility, or reduced concentration, and diminished sustained attention fell within the Average.
-Visual search speed, scanning, speed of processing, and motor speed and coordination on Part A of the Trail Making Test fell within the Average range.
-Total number of intrusive response errors was Average.
-Elias's score on Coding (speed of information processing) was Average.
-Visual-perceptual decision-making speed fell within the Average and ranked at the 25th percentile, indicating performance as good as or better than 25% of same-age peers from the general population.
-Working Memory (*G*wm) fell in the lower end of the Average range.
-Maintenance and resequencing of progressively lengthier sets of pictures in spatial working memory was Average.
-Maintenance and resequencing of progressively lengthier number and letter strings in working memory was Average.
-Efficiency of psychomotor speed, visual scanning ability, and visual-motor coordination was Average.
-An overall measure of efficiency in performing a selective attention letter cancellation task was Low Average.
-Psychomotor speed fell within the Low Average.
-Working memory for orally presented information fell within the Low Average and ranked at the 16th percentile, indicating performance as good as or better than 16% of same-age peers from the general population.
-Efficiency of psychomotor speed, visual scanning ability, and visual-motor coordination fell within the Low Average and ranked at the 16th percentile, indicating performance as good as or better than 16% of same-age peers from the general population.
-`r params$first_name`'s performance on a complex measure of divided attention, information processing speed, and inhibition was Below Average.
-Leo's Statue score of  0 () is classified as Below Average and is ranked at the  4th percentile, indicating performance as good as or better than  4% of same age peers from the general population. This estimate of Motor persistence and inhibition is considered a relative neurocognitive weakness and moderate concern.
-Planning and foresight, inhibition, and psychomotor speed examined through a series of maze-tracing tasks fell in the Below Average range.
-Leo's Sentence Repetition score of  2 () is classified as Below Average and is ranked at the  2th percentile, indicating performance as good as or better than  2% of same age peers from the general population. This estimate of Ability to repeat sentences of increasing complexity and length is considered a relative neurocognitive weakness and moderate concern.
-Performance on a measures that requires cognitive flexibility, divided attention, visual search, and the ability to shift cognitive sets between number and letter sequences fell within the Exceptionally Low range.
+
 
 </summary>

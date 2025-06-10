@@ -8,7 +8,7 @@
 #' @importFrom readr read_csv
 #' @importFrom stringr str_detect str_extract str_replace_all
 #' @importFrom ggplot2 ggplot aes geom_point geom_errorbar geom_text theme_minimal theme element_text element_blank margin labs scale_color_gradient2 scale_y_continuous
-#' @importFrom stats sd mean
+#' @importFrom stats sd
 #' @param data File path to CSV data or a data frame.
 #' @param pheno Phenotype name.
 #' @param table_name Name of the table to be saved.
@@ -48,7 +48,7 @@
 #' @return A formatted table with domain counts and visualizations.
 #' @rdname tbl_gt2
 #' @export
-tbl_gt2 <- function(
+tbl_gt4_enhanced <- function(
   data,
   pheno = NULL,
   table_name = NULL,

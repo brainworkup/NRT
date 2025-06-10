@@ -1,36 +1,5 @@
 <summary>
 
-A composite measure of the examinee's verbal and visual memory functioning was Above Average.
-
-Vocabulary acquisition and development was High Average.
-
-General intellectual ability 116 (110-121) was High Average overall.
-A subset of intellectual functioning with reduced influences of working memory and processing speed was High Average and ranked at the 86th percentile, indicating performance as good as or better than 86% of same-age peers from the general population.
-General intellectual functioning that minimizes expressive language demands was High Average.
-An estimate of premorbid verbal ability level fell within the High Average range.
-Ability to evaluate visual details understand spatial relations among objects and construct geometric design using models was classified as High Average and ranked at the 84th percentile.
-NA
-Working memory (i.e., the ability to consciously register maintain and manipulate auditory and visual information) fell in the High Average range.
-Verbal Comprehension (i.e., the ability to verbalize meaningful concepts, think about verbal information, and express oneself using words) was classified as High Average and ranked at the 77th percentile.
-A composite screening measure of Biggie's's visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the High Average classification range.
-Verbal Comprehension (i.e., the ability to verbalize meaningful concepts, think about verbal information, and express oneself using words) fell within the Average and ranked at the 70th percentile, indicating performance as good as or better than 70% of same-age peers from the general population.
-An estimate of premorbid verbal ability level was classified as Average and ranked at the 58th percentile.
-NA
-Verbal Comprehension (i.e., the ability to verbalize meaningful concepts, think about verbal information, and express oneself using words) was classified as Average and ranked at the 50th percentile.
-Fluid Reasoning (i.e., the ability to use reasoning to identify and apply solutions to problems) was classified as Average and ranked at the 50th percentile.
-General ability (GAI) was Average overall.
-A comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range.
-A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
-A subset of intellectual functioning with reduced influences of working memory and processing speed fell within the Average and ranked at the 39th percentile, indicating performance as good as or better than 39% of same-age peers from the general population.
-General intellectual ability fell within the Average and ranked at the 37th percentile, indicating performance as good as or better than 37% of same-age peers from the general population.
-
-Elias's score on RBANS Total Index (composite indicator of general cognitive functioning) was Average.
-An overall screening measure of the examinee's attentional functioning was Low Average.
-Ability to quickly use reasoning to identify and apply solutions to problems fell within the Low Average and ranked at the 18th percentile, indicating performance as good as or better than 18% of same-age peers from the general population.
-Fluid Reasoning (i.e., the ability to use reasoning to identify and apply solutions to problems) fell within the Low Average and ranked at the 9th percentile, indicating performance as good as or better than 9% of same-age peers from the general population.
-
-A composite screening measure of language comprehension and word-finding abilities fell in the Below Average classification range.
-
-
+IQ was WNL.
 
 </summary>
