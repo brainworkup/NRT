@@ -15,3 +15,6 @@
 ^pkgdown$           # Resources used for the package website
 ^_pkgdown\.yml$     # Configuration info for the package website
 ^\.github$          # GitHub Actions workflows
+
+
+^air\.toml$
